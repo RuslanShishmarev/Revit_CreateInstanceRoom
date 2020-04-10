@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>SampleApplication</Name>
+    <Assembly>RubTest.dll</Assembly>
+    <AddInId>604b1052-f742-4951-8576-c261d1993108</AddInId>
+    <FullClassName>RubTest.RubClass</FullClassName>
+    <VendorId>Shishmarev Ruslan</VendorId>
+    <VendorDescription>It's test!</VendorDescription>
+  </AddIn>
+</RevitAddIns>
